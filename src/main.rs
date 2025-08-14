@@ -1,4 +1,4 @@
-#![allow(clippy::collapsible_if)]
+#![allow(clippy::collapsible_if, clippy::collapsible_else_if)]
 
 use std::fmt::Display;
 use std::net::TcpListener;
